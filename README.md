@@ -10,3 +10,5 @@ cd XRO
 pip install requests bs4
 
 python XRO.pyc
+
+CRDTS:kngJanan404
